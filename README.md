@@ -1,4 +1,10 @@
-### Hi there 👋
+### Take Knowledge
+
+- 주로 개발을 하고 가끔 글을 쓰며 어쩌다 랩을 합니다
+
+<h3 style="text-align: center;">H3 that is center aligned</h3>
+
+<p style="text-align: center;">Text with basic formatting applied</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomelancholy&show_icons=true&theme=transparent)
 
