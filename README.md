@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=#000000&height=300&section=header&text=Take%20Knowledge&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=300&section=header&text=Take%20Knowledge&fontSize=90)
 
 <h3 align="center"> 주로 개발을 하고 가끔 글을 쓰며 어쩌다 랩을 합니다 </h3>
 
