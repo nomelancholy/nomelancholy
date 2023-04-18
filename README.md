@@ -16,5 +16,3 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomelancholy)](https://solved.ac/nomelancholy)
