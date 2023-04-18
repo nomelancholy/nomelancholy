@@ -1,26 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Take%20Knowledge&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=#000000&height=300&section=header&text=Take%20Knowledge&fontSize=90)
 
-- 주로 개발을 하고 가끔 글을 쓰며 어쩌다 랩을 합니다
+<h3 align="center"> 주로 개발을 하고 가끔 글을 쓰며 어쩌다 랩을 합니다 </h3>
 
-<h3 style="text-align: center;">H3 that is center aligned</h3>
-
-<p style="text-align: center;">Text with basic formatting applied</p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomelancholy&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomelancholy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**nomelancholy/nomelancholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <a href="https://takeknowledge.tistory.com/">
+      <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/takeknowledge/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
