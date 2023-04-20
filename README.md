@@ -15,6 +15,6 @@
   <a href="https://www.instagram.com/takeknowledge/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  [![Solved.ac
+  [Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=nomelancholy)](https://solved.ac/nomelancholy)
 </p>
