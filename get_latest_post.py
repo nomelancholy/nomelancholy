@@ -16,7 +16,11 @@ for idx, feed in enumerate(rss_feed['entries']):
 markdown_text = """![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Take%20Knowledge&fontSize=90&fontAlign=50)
 <div align="center">
 
+---
+
 <h3 align="center"> 주로 개발을 하고 가끔 글을 쓰며 어쩌다 랩을 합니다 </h3>
+
+---
 
 <p align="center">
   <a href="https://takeknowledge.tistory.com/">
@@ -37,6 +41,13 @@ markdown_text = """![header](https://capsule-render.vercel.app/api?type=waving&c
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomelancholy)](https://solved.ac/nomelancholy)
 </div>
+
+---
+
+### 🚀 Latest Posting
+
+---
+
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
