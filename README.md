@@ -14,7 +14,7 @@
   <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
       <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C" />
   </a> 
-    <a href="https://brunch.co.kr/@takeknowledge">
+    <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
       <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A" />
   </a> 
   <a href="https://www.instagram.com/takeknowledge/">
@@ -22,6 +22,7 @@
   </a>
 </p>
 
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nomelancholy)](https://solved.ac/nomelancholy)
 </div>
