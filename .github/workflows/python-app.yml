@@ -8,8 +8,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-#   schedule:
-#     - cron: "0 0 */1 * *"
+  schedule:
+    - cron: "0 0 */1 * *"
 
 jobs:
   build:
@@ -29,7 +29,11 @@ jobs:
     - name: Run Update Python Script
       run: |
         python get_latest_post.py
+    - name: Check if there any changes
+      run: |
+        git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
     - name: Update README.md file
+      if: steps.verify_diff.outputs.changed == 'true'
       run: |
         git pull
         git add .
