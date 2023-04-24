@@ -14,7 +14,10 @@
   <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
       <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C" />
   </a> 
-    <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
+   <a href="https://www.youtube.com/@nomelancholy/">
+      <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+   <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
       <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A" />
   </a> 
   <a href="https://www.instagram.com/takeknowledge/">
