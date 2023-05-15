@@ -12,13 +12,13 @@
       <img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
   </a>
   <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
-      <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C?style=plastic" />
+      <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C" />
   </a> 
    <a href="https://www.youtube.com/@nomelancholy/">
       <img src="https://img.shields.io/badge/youtube-FF0000?style=plastic&logo=youtube&logoColor=white"/>
   </a>
    <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
-      <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A?style=plastic" />
+      <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A" />
   </a> 
   <a href="https://www.instagram.com/takeknowledge/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
