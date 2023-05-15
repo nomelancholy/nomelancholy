@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://takeknowledge.tistory.com/">
-      <img src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
+      <img alt="Tistory" src="https://img.shields.io/badge/tistory-000000?style=plastic&logo=tistory&logoColor=white"/>
   </a>
   <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
-      <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C" />
+      <img alt="Melon" src="https://img.shields.io/badge/-Melon-00CD3C?style=plastic" />
   </a> 
    <a href="https://www.youtube.com/@nomelancholy/">
-      <img src="https://img.shields.io/badge/youtube-FF0000?style=plastic&logo=youtube&logoColor=white"/>
+      <img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?style=plastic&logo=youtube&logoColor=white"/>
   </a>
    <a href="https://www.melon.com/artist/timeline.htm?artistId=3233569">
-      <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A" />
+      <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A?style=plastic" />
   </a> 
   <a href="https://www.instagram.com/takeknowledge/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic"/>
   </a>
 </p>
 
