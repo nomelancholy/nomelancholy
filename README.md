@@ -21,7 +21,7 @@
       <img alt="Brunch" src="https://img.shields.io/badge/-Brunch-1E191A?style=plastic" />
   </a> 
   <a href="https://www.instagram.com/takeknowledge/">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic"/>
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
