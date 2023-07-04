@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://takeknowledge.tistory.com/151)
 - [&lt;script&gt; 태그는 어디에 위치해야 할까요?](https://takeknowledge.tistory.com/150)
 - [개발자 도구의 console에서 javascript를 사용할 수 있는 이유](https://takeknowledge.tistory.com/149)
 - [[백준] 1009 - 분산처리 &lpar;python&rpar;](https://takeknowledge.tistory.com/148)
 - [[백준] 1003 - 피보나치 함수 &lpar;python&rpar;](https://takeknowledge.tistory.com/147)
-- [탐색 알고리즘 DFS &lpar;깊이 우선 탐색&rpar; 와 BFS &lpar;너비 우선 탐색&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/146)
 <!-- BLOG-POST-LIST:END -->
