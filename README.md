@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [[프로그래머스] 나머지가 1이 되는 수 찾기 &lpar;python&rpar;](https://takeknowledge.tistory.com/152)
 - [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://takeknowledge.tistory.com/151)
 - [&lt;script&gt; 태그는 어디에 위치해야 할까요?](https://takeknowledge.tistory.com/150)
 - [개발자 도구의 console에서 javascript를 사용할 수 있는 이유](https://takeknowledge.tistory.com/149)
 - [[백준] 1009 - 분산처리 &lpar;python&rpar;](https://takeknowledge.tistory.com/148)
-- [[백준] 1003 - 피보나치 함수 &lpar;python&rpar;](https://takeknowledge.tistory.com/147)
 <!-- BLOG-POST-LIST:END -->
