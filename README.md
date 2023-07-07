@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [[백준] 1012 - 유기농 배추 &lpar;python&rpar;](https://takeknowledge.tistory.com/154)
+- [[백준] 1018 - 체스판 다시 칠하기 &lpar;python&rpar;](https://takeknowledge.tistory.com/155)
+- [[백준] 1012 - 유기농 배추 &lpar;dfs 풀이&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/154)
 - [최단 경로 찾기 알고리즘 &lpar;다익스트라 / 플로이드 워셜&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/153)
 - [[프로그래머스] 나머지가 1이 되는 수 찾기 &lpar;python&rpar;](https://takeknowledge.tistory.com/152)
 - [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://takeknowledge.tistory.com/151)
-- [&lt;script&gt; 태그는 어디에 위치해야 할까요?](https://takeknowledge.tistory.com/150)
 <!-- BLOG-POST-LIST:END -->
