@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [[백준] 1075 - 나누기 &lpar;python&rpar;](https://takeknowledge.tistory.com/158)
 - [[백준] 1037 - 약수 &lpar;python&rpar;](https://takeknowledge.tistory.com/157)
 - [[백준] 1032 - 명령 프롬프트 &lpar;python&rpar;](https://takeknowledge.tistory.com/156)
 - [[백준] 1018 - 체스판 다시 칠하기 &lpar;python&rpar;](https://takeknowledge.tistory.com/155)
 - [[백준] 1012 - 유기농 배추 &lpar;dfs 풀이&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/154)
-- [최단 경로 찾기 알고리즘 &lpar;다익스트라 / 플로이드 워셜&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/153)
 <!-- BLOG-POST-LIST:END -->
