@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [[백준] 1157 - 단어 공부 &lpar;python&rpar;](https://takeknowledge.tistory.com/163)
+- [[백준] 1110 - 더하기 사이클 &lpar;python&rpar;](https://takeknowledge.tistory.com/162)
 - [[백준] 1094 - 막대기 &lpar;재귀 풀이&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/161)
 - [[백준] 1085 - 직사각형에서 탈출 &lpar;python&rpar;](https://takeknowledge.tistory.com/160)
 - [[백준] 1076 - 저항 &lpar;python&rpar;](https://takeknowledge.tistory.com/159)
-- [[백준] 1075 - 나누기 &lpar;python&rpar;](https://takeknowledge.tistory.com/158)
-- [[백준] 1037 - 약수 &lpar;python&rpar;](https://takeknowledge.tistory.com/157)
 <!-- BLOG-POST-LIST:END -->
