@@ -37,9 +37,9 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [[백준] 1158 - 요세푸스 문제 &lpar;python&rpar;](https://takeknowledge.tistory.com/165)
 - [생활코딩 마인드맵 라이브러리 cytoscape 사용법](https://takeknowledge.tistory.com/164)
 - [[백준] 1157 - 단어 공부 &lpar;python&rpar;](https://takeknowledge.tistory.com/163)
 - [[백준] 1110 - 더하기 사이클 &lpar;python&rpar;](https://takeknowledge.tistory.com/162)
 - [[백준] 1094 - 막대기 &lpar;재귀 풀이&rpar; &lpar;python&rpar;](https://takeknowledge.tistory.com/161)
-- [[백준] 1085 - 직사각형에서 탈출 &lpar;python&rpar;](https://takeknowledge.tistory.com/160)
 <!-- BLOG-POST-LIST:END -->
